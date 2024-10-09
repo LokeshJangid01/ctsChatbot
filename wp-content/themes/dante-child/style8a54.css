@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Dante Child
+ Theme URI:	   http://dante.swiftideas.net
+ Description:  Dante Child Theme
+ Template:     dante
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  dantechild
+*/
+
+@media (max-width: 1280px) {
+  
+  div.spb_parallax_asset
+	{
+		/* background-image: url('//tasigroup.com/wp-content/uploads/2013/10/iStock_000020247544_XXXLarge-map-web2.jpg') !important; */
+	}
+ 
+}
+
+ul.social-icons > li.googleplus {
+    display: none;
+}
